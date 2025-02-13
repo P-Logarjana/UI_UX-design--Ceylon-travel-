@@ -1,0 +1,11 @@
+
+
+------Overview-------
+Ceylon Travel is a modern and visually appealing UI/UX design 
+concept created in Figma, aimed at enhancing the user 
+experience for exploring Sri Lanka's tourism destinations. 
+The design features a clean and intuitive interface, ensuring seamless 
+navigation for users looking for travel destinations, accommodations, 
+and activities across Sri Lanka.
+
+https://www.figma.com/design/7p54lc2vUeTbPv9ZUPa2VJ/Tourism?node-id=0-1&t=2kqpjkwN6Pn2YKO1-1
